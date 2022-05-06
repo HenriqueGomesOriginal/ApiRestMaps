@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiRestMaps", "ApiRestMaps\ApiRestMaps.csproj", "{0F6AE2CB-831E-4BD8-AFA3-4FC886092F43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRestMapsXUnitTests", "ApiRestMapsXUnitTests\ApiRestMapsXUnitTests.csproj", "{5E85501C-B542-4034-AE8D-BD1CBB15DF36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F6AE2CB-831E-4BD8-AFA3-4FC886092F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6AE2CB-831E-4BD8-AFA3-4FC886092F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6AE2CB-831E-4BD8-AFA3-4FC886092F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6AE2CB-831E-4BD8-AFA3-4FC886092F43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E85501C-B542-4034-AE8D-BD1CBB15DF36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E85501C-B542-4034-AE8D-BD1CBB15DF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E85501C-B542-4034-AE8D-BD1CBB15DF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E85501C-B542-4034-AE8D-BD1CBB15DF36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9864E41-E12B-4E07-8EB6-5D2D3F1C8D8C}
+	EndGlobalSection
+EndGlobal
